@@ -4,12 +4,10 @@ using System.Linq;
 using System.Reflection;
 using System.Threading.Tasks;
 using goobybot.Core.Util;
-using ChristieBot.Core.Config;
+using goobybot.Core.Config;
 using Discord;
 using Discord.Commands;
 using Discord.WebSocket;
-using Ether.WeightedSelector;
-using Microsoft.EntityFrameworkCore.Update;
 
 namespace goobybot
 {
